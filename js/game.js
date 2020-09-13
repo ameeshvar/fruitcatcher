@@ -66,8 +66,8 @@ console.log(players[0].x)
                     
                      textSize(25)
                      fill("white")
-                     text("player1"+allPlayers.player1.score,50)
-                     text("player2"+allPlayers.player2.score,100)
+                     text("player1"+allPlayers.player1.score,50,100)
+                     text("player2"+allPlayers.player2.score,100,100)
                  }
                 
                 
